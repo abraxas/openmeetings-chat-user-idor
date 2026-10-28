@@ -13,6 +13,10 @@
   &nbsp;·&nbsp;
   <a href="https://github.com/abraxas/openmeetings-chat-user-idor">openmeetings-chat-user-idor</a>
 </p>
+<p align="center">
+  Write-up: <a href="https://abraxaslabs.tech/research/openmeetings-9-1-0-leftovers"><strong>https://abraxaslabs.tech/research/openmeetings-9-1-0-leftovers</strong></a>
+</p>
+
 
 # openmeetings-chat-user-idor
 
